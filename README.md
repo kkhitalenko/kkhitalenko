@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile!
+### Welcome to my GitHub profile 🥰
 ## I'm Katya – beginner backend developer 🌱
 Obsessed with constantly Python learning 
 
