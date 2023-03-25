@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile!
 ## I'm Katya – beginner backend developer 🌱
-Obsessed with constantly learning Python
+Obsessed with constantly Python learning 
 
 
 ### My stack :
