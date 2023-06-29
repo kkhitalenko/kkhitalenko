@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile 
+### Welcome to my GitHub profile 🌸
 ## I'm Katya – self-taught Python enthusiast 
 Obsessed with constantly learning 
 
