@@ -19,3 +19,5 @@ Obsessed with constantly learning
 </p>
 
 ![kkhitalenko's github stats](https://github-readme-stats.vercel.app/api?username=kkhitalenko&show_icons=true&hide=issues,contribs&rank_icon=github&theme=radical&bg_color=00000000)
+
+![kkhitalenko's profile views counter](https://komarev.com/ghpvc/?username=kkhitalenko&abbreviated=true&color=C71585)
