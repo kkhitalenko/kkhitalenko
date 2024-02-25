@@ -24,8 +24,5 @@ Obsessed with constantly learning
   <img src="https://github-readme-stats.vercel.app/api?username=kkhitalenko&show_icons=true&theme=radical">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kkhitalenko&show_icons=true&theme=tokyonight">
-</p>
-<p>
   <img src="https://github-readme-stats.vercel.app/api?username=kkhitalenko&show_icons=true&theme=synthwave">
 </p>
