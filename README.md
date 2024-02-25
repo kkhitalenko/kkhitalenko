@@ -1,9 +1,8 @@
 ### Welcome to my GitHub profile 🌸
-## I'm Katya – self-taught Python enthusiast 
+## I'm Katya – self-taught Python enthusiast
 Obsessed with constantly learning 
 
-
-### My stack
+### My stack:
 
 <p>  
 <div>
@@ -19,10 +18,6 @@ Obsessed with constantly learning
 </div>
 </p>
 
-
 <p>  
   <img src="https://github-readme-stats.vercel.app/api?username=kkhitalenko&show_icons=true&theme=radical">
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kkhitalenko&show_icons=true&theme=synthwave">
 </p>
