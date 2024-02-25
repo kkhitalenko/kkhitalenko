@@ -19,5 +19,5 @@ Obsessed with constantly learning
 </p>
 
 <p>  
-  <img src="https://github-readme-stats.vercel.app/api?username=kkhitalenko&show_icons=true&theme=radical&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkhitalenko&show_icons=true&rank_icon=github&theme=radical&bg_color=00000000">
 </p>
