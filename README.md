@@ -14,10 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" title="Poetry" alt="icon" width="65" height="65" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="icon" width="65" height="65" />
 </div>
+<br>
 
-<p>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=kkhitalenko&show_icons=true&hide=issues,contribs&rank_icon=github&theme=radical&bg_color=00000000" />
-  </div>
-</p>
 <img src="https://komarev.com/ghpvc/?username=kkhitalenko&abbreviated=true&color=C71585" />
