@@ -16,4 +16,8 @@
 </div>
 <br>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kkhitalenko&theme=tokyonight-duo&date_format=%5BY%20%5DM%20j&card_width=40&card_height=40" alt="GitHub Streak" /></a>
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=kkhitalenko&abbreviated=true&color=C71585" />
