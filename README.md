@@ -7,9 +7,12 @@
 <div>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" title="Django" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" title="Django" alt="icon" width="65" height="65" />
+  <img src="https://docs.aiogram.dev/en/dev-3.x/_static/logo.png" title="Aiogram" alt="icon" width="65" height="65" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="icon" width="65" height="65" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="Docker" alt="icon" width="65" height="65" />
+  
+  
 </div>
 <br>
 
