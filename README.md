@@ -10,6 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="DRF" alt="icon" width="65" height="65" />
   <img src="https://docs.aiogram.dev/en/dev-3.x/_static/logo.png" title="Aiogram" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="icon" width="65" height="65" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="icon" width="65" height="65" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="icon" width="65" height="65" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="Docker" alt="icon" width="65" height="65" />
