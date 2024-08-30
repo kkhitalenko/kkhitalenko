@@ -13,7 +13,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="icon" width="65" height="65" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="Docker" alt="icon" width="65" height="65" />
-  <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" title="Celery" alt="icon" width="65" height="65" />
   
 </div>
 <br>
