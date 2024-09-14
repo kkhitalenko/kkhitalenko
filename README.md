@@ -14,7 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="icon" width="65" height="65" />
   
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="Docker" alt="icon" width="65" height="65" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="icon" width="65" height="65" />
   
 </div>
 <br>
