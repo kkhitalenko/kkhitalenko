@@ -7,7 +7,8 @@
 <div>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" title="Django" alt="icon" width="65" height="65" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="DRF" alt="icon" width="65" height="65" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="icon" width="65" height="65" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="Django REST Framework" alt="icon" width="65" height="65" />
   <img src="https://docs.aiogram.dev/en/dev-3.x/_static/logo.png" title="Aiogram" alt="icon" width="65" height="65" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="icon" width="65" height="65" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="icon" width="65" height="65" />
