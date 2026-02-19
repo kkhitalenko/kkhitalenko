@@ -7,12 +7,11 @@
 <div>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" title="Django" alt="icon" width="65" height="65" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="Django REST Framework" alt="icon" width="65" height="65" />
   <img src="https://docs.aiogram.dev/en/dev-3.x/_static/logo.png" title="Aiogram" alt="icon" width="65" height="65" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="icon" width="65" height="65" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="Docker" alt="icon" width="65" height="65" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="icon" width="65" height="65" />
-  
 </div>
 <br>
 
